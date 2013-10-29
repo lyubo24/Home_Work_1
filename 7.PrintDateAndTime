@@ -1,0 +1,15 @@
+using System;
+
+namespace PrintDateAntTime
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime time = DateTime.Now;            
+            Console.WriteLine("Today is: " + time.ToString("d-M-yyyy"));
+            Console.WriteLine("Time is:  " + time.ToString("HH:mm:ss"));
+            Console.WriteLine();
+        }
+    }
+}
