@@ -1,0 +1,12 @@
+using System;
+
+namespace PrintFullNames
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(" My first name is: Lyubo\n My last name is: Georgiev\n");
+        }
+    }
+}
