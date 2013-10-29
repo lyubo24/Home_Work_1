@@ -1,0 +1,13 @@
+using System;
+
+namespace CalculatesSquare
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int square = 12345;
+            Console.WriteLine(square * square + "\n");
+        }
+    }
+}
