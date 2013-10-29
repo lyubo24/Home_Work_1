@@ -1,0 +1,12 @@
+using System;
+
+namespace PrintNumbers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(" 1\n 1001\n 1001\n");
+        }
+    }
+}
